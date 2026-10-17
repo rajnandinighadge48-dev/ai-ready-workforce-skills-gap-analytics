@@ -133,7 +133,7 @@ Aspiring HR Analytics professional with an academic background in Human Resource
 
 - LinkedIn: [https://linkedin.com/rajnandinighadge]
 - GitHub: [https://github.com/rajnandinighadge48-dev/ai-ready-workforce-skills-gap-analytics/edit/main/README.md]
-
+- Tableau : [https://public.tableau.com/app/profile/rajnandini.ghadge/viz/AIREADINESSANALYSIS-500EMPOYEES/AIREADINESSANALYSIS-500Employees?publish=yes]
 ---
 
 ⭐ Thank you for visiting this project!
